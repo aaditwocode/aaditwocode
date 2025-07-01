@@ -1,5 +1,6 @@
 # 💫 About Me:
-HEY ! i am web developer learning everyday just trying to be better........
+Howdy ! a student learning everyday just trying to be better than yesterday ........
+have a great day
 
 
 ## 🌐 Socials:
