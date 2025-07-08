@@ -33,6 +33,5 @@ Howdy! I'm Aaditya, a passionate learner and aspiring developer growing my skill
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaditwocode&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aaditwocode&theme=cobalt&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditwocode&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
