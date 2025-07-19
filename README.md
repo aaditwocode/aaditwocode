@@ -1,3 +1,14 @@
+# 💫 About Me:
+Howdy! I'm Aaditya, a passionate learner and aspiring developer growing my skills every day.  
+🔭 Currently exploring full-stack development  
+🌱 Learning MERN stack and system design  
+💡 Avid DSA solver - not claiming to be the best but tackling problems daily  
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-pratap-singh-b39186284/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aaditwocode)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaditwocode@gmail.com) 
+
 # 💻 Tech Stack:
 
 ### Languages & Databases:
@@ -26,3 +37,7 @@
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=aaditwocode&theme=cobalt&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditwocode&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
