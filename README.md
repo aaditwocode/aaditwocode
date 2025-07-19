@@ -1,14 +1,3 @@
-# 💫 About Me:
-Howdy! I'm Aaditya, a passionate learner and aspiring developer growing my skills every day.  
-🔭 Currently exploring full-stack development  
-🌱 Learning MERN stack and system design  
-💡 Avid DSA solver - not claiming to be the best but tackling problems daily  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-pratap-singh-b39186284/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aaditwocode)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaditwocode@gmail.com) 
-
 # 💻 Tech Stack:
 
 ### Languages & Databases:
@@ -25,6 +14,7 @@ Howdy! I'm Aaditya, a passionate learner and aspiring developer growing my skill
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Parcel](https://img.shields.io/badge/Parcel-%23000000.svg?style=for-the-badge&logo=Parcel&logoColor=%2361DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
 
@@ -36,7 +26,3 @@ Howdy! I'm Aaditya, a passionate learner and aspiring developer growing my skill
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=aaditwocode&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaditwocode&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
