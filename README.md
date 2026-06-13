@@ -2,7 +2,7 @@ Howdy! I'm Aaditya 👋
 
 🚀 A curious developer who loves **building things for the web and solving challenging problems**.  
 💻 Currently diving deeper into **Full-Stack Development and Backend Engineering**.  
-🌱 Learning and experimenting with **MERN stack, Spring Boot, and System Design**.  
+🌱 Learning and experimenting with **MERN stack, Spring Boot, System Design, and Generative AI (LangChain + RAG)**.
 🧠 Regularly practicing **Data Structures & Algorithms** to sharpen problem-solving skills.  
 
 
@@ -40,6 +40,13 @@ Howdy! I'm Aaditya 👋
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
+## 🤖 AI / Generative AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+---
 
 ## ⚙️ Tools & Platforms
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -62,4 +69,4 @@ Howdy! I'm Aaditya 👋
 
 ---
 
-⭐ *Always learning, always building, always solving.*
+⭐ *Always learning, always building, always solving — from code to AI.*
